@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hurabittencourt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hurabittencourt@gmail.com)](mailto:hurabittencourt@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/HuraBittencourt/badges/micro)](https://www.codewars.com/users/HuraBittencourt/badges/micro)
 ## Hi 👋, 
-I'm Hurá Bittencourt, I'm a Full Stack developer 👨‍💻 I´m passionate about all technologies and its entire ecosystem. 
+I'm Hurá Bittencourt, I'm a Full Stack developer 👨‍💻 I'm passionate about all technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on JavaScript (front-end & back-end) and Ruby projects
 - 🌱 I’m currently studing about Docker, Kubernets, DevOps, Ruby and of course improving 
